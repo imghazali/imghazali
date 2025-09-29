@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imghazali
-- 👀 I’m interested in FRONT-END Web Developing..
-- 🌱 I’m currently learning HTML CSS JAVASCRIPT TAILWIND REACTJS...
+- 👀 I’m interested in Web Developing..
+- 🌱 I’m currently learning Full-stack web Developing...
 - 💞️ I’m at Learning Stage..
 - 📫 bewithghazali@gmail.com
 
